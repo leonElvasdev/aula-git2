@@ -1,6 +1,6 @@
-# pesquisa sobre git, github e vscode 
+# Pesquisa sobre git, github e vscode 
 
-## o que é Git? 
+## O que é Git? 
 **É o sistema de controle de versão moderno mais usado no mundo de hoje é o Git**. O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. Um número imprecionante de projetos de software depende do Git para controle de versão, incluindo projetos comerciais e de código-fonte aberto.
 
 ## Desempenho 
@@ -19,7 +19,7 @@ Um dos principais objetivos de design do Git é a flexibilidade. O Git é flexí
 * mkdir - cria e nomeia pastas (diretorios)
 * clear - limpa a tela
 * code. - abre o visul studios code
-* echo "# nome da pasta" >> README.md -
+* echo "# nome da pasta" >> README.md - criar arquivo 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3sHK8AOBtGhdk8YJU-28jHI1mksKpWjU1qiogGTYAA&s)
 
