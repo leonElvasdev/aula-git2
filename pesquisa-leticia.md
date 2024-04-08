@@ -23,5 +23,5 @@ Um dos principais objetivos de design do Git é a flexibilidade. O Git é flexí
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3sHK8AOBtGhdk8YJU-28jHI1mksKpWjU1qiogGTYAA&s)
 
-### site de referencia: (https://www.atlassian.com/br/git/tutorials/what-is-git) 
+### site de ajuda: (https://www.atlassian.com/br/git/tutorials/what-is-git) 
 
